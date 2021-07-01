@@ -1,0 +1,88 @@
+.nav {
+    justify-content: flex-end;
+    display: flex;
+    vertical-align:top;
+    width: 73%;
+    padding: 1%;
+    margin-right: 0;
+    
+}
+
+header {
+    display: flex;
+    vertical-align: top;
+    height: 150px;
+    width: 1920px;
+    background-color: black;
+    justify-content: space-around;
+}
+header li {
+    color: white;
+    vertical-align: baseline;
+    justify-content: space-between;
+}
+.logo {
+    vertical-align: top;
+    padding: 1%;
+    text-align: center;
+}
+h1 {
+    margin-top: 0;
+    padding-top: 15px;
+}
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+    width: 100%;
+}
+li {
+    display: inline-block;
+    justify-content: flex-end;
+
+}
+ul {
+    width: 50%;
+    margin-left: auto;
+}
+.heroimage {
+    display: inline-block;
+    width: 25%;
+    vertical-align: top;
+    float: left;
+    margin-right: 25px;
+    
+}
+.right {
+    display: inline-block;
+    width: 50%;
+    justify-content: flex-end;
+    margin-right: 0%;
+}
+
+.hero {
+    width: 100%;
+    margin: 0;
+
+}
+.content {
+    display: inline-block;
+    width: 75%;
+
+
+    
+}
+
+footer {
+    background-color: black;
+    width: 1920px;
+    padding: 1%;
+    clear: both;
+    
+}
+footer ul {
+    display: inline-block;
+}
+footer li {
+    color: white;
+    justify-content: space-between;
+}
